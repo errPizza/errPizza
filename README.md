@@ -18,7 +18,7 @@
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/err!$">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=err!$&count=10&unique=true" alt="Spotify recently played"  />
+    <img src="[https://spotify-recently-played-readme.vercel.app/api?user=err!$&count=10&unique=true" alt="Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316uqcxwcwedylpp3o3mlminsqkm&count=10&width=900&unique=1&duration=1&album=1)"  />
   </a>
 </div>
 
