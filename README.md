@@ -1,53 +1,55 @@
-[![ProfileBanner](https://i.ibb.co/RGLL5VtW/Banner-Pizza-Dev.png)]
+<p align="center">
+  <img src="https://i.ibb.co/RGLL5VtW/Banner-Pizza-Dev.png" alt="Pizza Dev Banner" width="100%">
+</p>
 
-<h1 align="center"><b>Hi , I'm Pizza Dev </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm <b>Pizza Dev</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-###
+<br>
 
-<img data-importer="image" align="left" height="270" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNraDA2dDltdHU0aHdoeTFlOG9zejNnNTl3NDIxbmxwNjdoOHgwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3yJJ8HjSGTZbczkQfL/giphy.gif"  />
+<img
+  align="left"
+  width="300"
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNraDA2dDltdHU0aHdoeTFlOG9zejNnNTl3NDIxbmxwNjdoOHgwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3yJJ8HjSGTZbczkQfL/giphy.gif"
+  alt="Pizza Dev GIF"
+/>
 
-###
+&nbsp;&nbsp;&nbsp;🎓 <b>Software Engineer</b><br><br>
 
-<p data-importer="text" align="left">🎓 Software Engineer<br>💻 Web, application, and Roblox game developer.<br>🚀 I enjoy turning ideas into functional projects, from user interfaces and backend systems to complete applications and game mechanics.<br>🎮 I've been programming and developing projects for more than 4 years, experimenting with different technologies, platforms, frameworks, and development environments.<br>🛠️ Interested in software development, backend infrastructure, game development, servers, databases, and UI/UX.<br>📫 Contact me:<br>Discord: Your Discord<br>X / Twitter: @YourUsername<br>⚡ Fun fact: 🍕</p>
+&nbsp;&nbsp;&nbsp;💻 Developer of <b>websites, applications, and Roblox games.</b>
 
-###
+&nbsp;&nbsp;&nbsp;🚀 I enjoy turning ideas into <b>functional projects</b>, including user interfaces,<br>
+&nbsp;&nbsp;&nbsp;backend systems, complete applications, and game mechanics.<br>
 
-<br clear="both">
+&nbsp;&nbsp;&nbsp;🎮 More than <b>4 years programming and developing projects</b> using different<br>
+&nbsp;&nbsp;&nbsp;technologies, platforms, frameworks, and development environments.<br><br>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/errpizza/errpizza/snake-output/snake.svg" alt="Snake animation" />
+&nbsp;&nbsp;&nbsp;🛠️ Interested in <b>software development, backend infrastructure, game development, servers, databases, and UI/UX.</b>
 
-###
+### 📫 Contact me
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/err!$">
-    <img src="[https://spotify-recently-played-readme.vercel.app/api?user=err!$&count=10&unique=true" alt="Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316uqcxwcwedylpp3o3mlminsqkm&count=10&width=900&unique=1&duration=1&album=1)"  />
+**Discord:** `err_pizza`  
+**X / Twitter:** `@err`
+
+⚡ **Fun fact:** 🍕
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/errPizza/errPizza/snake-output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/316uqcxwcwedylpp3o3mlminsqkm">
+    <img
+      src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316uqcxwcwedylpp3o3mlminsqkm&count=10&width=900&unique=1&duration=1&album=1"
+      alt="Spotify recently played"
+      width="900"
+    />
   </a>
 </div>
 
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/errpizza/errpizza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/errpizza/errpizza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
----
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Technologies I Know
 
@@ -69,8 +71,25 @@
 
 ---
 
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center">📊 GitHub Stats</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=errpizza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/errpizza)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=errpizza-48&theme=material-palenight)](https://github.com/errpizza)
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=errPizza&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="Pizza Dev GitHub Stats"
+    height="180"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=errPizza&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Pizza Dev Most Used Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=errPizza&theme=tokyonight&hide_border=true"
+    alt="Pizza Dev GitHub Streak"
+  />
+</p>
