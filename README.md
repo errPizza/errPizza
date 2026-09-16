@@ -1,8 +1,10 @@
-<h2 data-importer="text" align="left">👋 Hi there, I'm Pizza Dev 🍕</h2>
+[![ProfileBanner](https://i.ibb.co/RGLL5VtW/Banner-Pizza-Dev.png)]
+
+<h1 align="center"><b>Hi , I'm Pizza Dev </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ###
 
-<img data-importer="image" align="left" height="270" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="left" height="270" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNraDA2dDltdHU0aHdoeTFlOG9zejNnNTl3NDIxbmxwNjdoOHgwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3yJJ8HjSGTZbczkQfL/giphy.gif"  />
 
 ###
 
@@ -20,12 +22,6 @@
   <a href="https://open.spotify.com/user/err!$">
     <img src="[https://spotify-recently-played-readme.vercel.app/api?user=err!$&count=10&unique=true" alt="Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316uqcxwcwedylpp3o3mlminsqkm&count=10&width=900&unique=1&duration=1&album=1)"  />
   </a>
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
@@ -73,16 +69,8 @@
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=errPizza&show_icons=true&theme=github_dark&hide_border=true" alt="Pizza Dev GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errPizza&layout=compact&theme=github_dark&hide_border=true" alt="Pizza Dev Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=errPizza&theme=github-dark-blue&hide_border=true" alt="Pizza Dev GitHub Streak" />
-</p>
+[![](https://github-readme-stats.vercel.app/api?username=errpizza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/errpizza)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=errpizza-48&theme=material-palenight)](https://github.com/errpizza)
+</div>
