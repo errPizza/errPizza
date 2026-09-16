@@ -75,15 +75,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=errPizza&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    src="./profile/stats.svg"
     alt="Pizza Dev GitHub Stats"
-    height="180"
+    width="48%"
   />
-  
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=errPizza&layout=compact&theme=tokyonight&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Pizza Dev Most Used Languages"
-    height="180"
+    width="48%"
   />
 </p>
 
@@ -91,5 +90,6 @@
   <img
     src="https://streak-stats.demolab.com?user=errPizza&theme=tokyonight&hide_border=true"
     alt="Pizza Dev GitHub Streak"
+    width="58%"
   />
 </p>
