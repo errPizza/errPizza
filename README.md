@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;backend systems, complete applications, and game mechanics.<br>
 
 &nbsp;&nbsp;&nbsp;🎮 More than <b>4 years programming and developing projects</b> using different<br>
-&nbsp;&nbsp;&nbsp;technologies, platforms, frameworks, and development environments.<br><br>
+&nbsp;&nbsp;&nbsp;technologies, platforms, frameworks, and development environments.<br><br><br>
 
 &nbsp;&nbsp;&nbsp;🛠️ Interested in <b>software development, backend infrastructure, game development, servers, databases, and UI/UX.</b>
 
