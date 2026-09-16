@@ -39,6 +39,8 @@
    <img src="https://raw.githubusercontent.com/errPizza/errPizza/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://open.spotify.com/user/316uqcxwcwedylpp3o3mlminsqkm">
     <img
