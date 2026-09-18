@@ -31,7 +31,7 @@
 ### 📫 Contact me
 
 **Discord:** `err_pizza`  
-**X / Twitter:** `@err`
+**X / Twitter:** `@err_Lo2sDat4`
 
 ⚡ **Fun fact:** 🍕
 
