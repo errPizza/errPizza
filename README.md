@@ -57,7 +57,7 @@
 
 ### 💻 Languages
 
-[![Languages](https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,lua,md,py,powershell)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,lua,md,py,powershell,ts)](https://skillicons.dev)
 
 ### 🛠️ Technologies & Tools
 
