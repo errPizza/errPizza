@@ -57,7 +57,7 @@
 
 ### 💻 Languages
 
-[![Languages](https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,lua,md,py,powershell,ts)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,lua,md,py,powershell,rust,ts)](https://skillicons.dev)
 
 ### 🛠️ Technologies & Tools
 
@@ -69,7 +69,7 @@
 
 ### 🖥️ Platforms & Development Environments
 
-[![Platforms](https://skillicons.dev/icons?i=debian,discord,discordjs,linux,robloxstudio,unity,unreal,windows)](https://skillicons.dev)
+[![Platforms](https://skillicons.dev/icons?i=debian,discord,discordjs,kali,linux,robloxstudio,unity,unreal,windows)](https://skillicons.dev)
 
 ---
 
